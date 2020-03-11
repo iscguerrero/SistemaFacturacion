@@ -1,0 +1,12 @@
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Persistence\bin\Debug\Persistence.dll.config
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Persistence\bin\Debug\Persistence.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Persistence\bin\Debug\Persistence.pdb
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Persistence\bin\Debug\EntityFramework.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Persistence\bin\Debug\ModelSF.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Persistence\bin\Debug\ModelSF.pdb
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Persistence\bin\Debug\EntityFramework.xml
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Persistence\obj\Debug\Persistence.csprojResolveAssemblyReference.cache
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Persistence\obj\Debug\Persistence.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Persistence\obj\Debug\Persistence.pdb

@@ -1,0 +1,14 @@
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Repository\obj\Debug\RepositorySF.csprojResolveAssemblyReference.cache
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Repository\bin\Debug\Repository.dll.config
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Repository\bin\Debug\Repository.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Repository\bin\Debug\Repository.pdb
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Repository\bin\Debug\EntityFramework.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Repository\bin\Debug\ModelSF.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Repository\bin\Debug\Persistence.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Repository\bin\Debug\ModelSF.pdb
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Repository\bin\Debug\Persistence.pdb
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Repository\bin\Debug\EntityFramework.xml
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Repository\obj\Debug\Repository.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\04 Persistence\Repository\obj\Debug\Repository.pdb

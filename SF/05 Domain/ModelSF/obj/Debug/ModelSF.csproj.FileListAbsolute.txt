@@ -1,0 +1,4 @@
+C:\Users\dguerrero\Desktop\Cursos\SF\05 Domain\ModelSF\bin\Debug\ModelSF.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\05 Domain\ModelSF\bin\Debug\ModelSF.pdb
+C:\Users\dguerrero\Desktop\Cursos\SF\05 Domain\ModelSF\obj\Debug\ModelSF.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\05 Domain\ModelSF\obj\Debug\ModelSF.pdb

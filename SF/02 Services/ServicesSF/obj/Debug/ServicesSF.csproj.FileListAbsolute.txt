@@ -1,0 +1,17 @@
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\obj\Debug\ServicesSF.csprojResolveAssemblyReference.cache
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\bin\Debug\ServicesSF.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\bin\Debug\ServicesSF.pdb
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\bin\Debug\FluentValidation.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\bin\Debug\ModelSF.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\bin\Debug\Repository.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\bin\Debug\UoWSF.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\bin\Debug\Persistence.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\bin\Debug\EntityFramework.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\bin\Debug\Repository.pdb
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\bin\Debug\UoWSF.pdb
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\bin\Debug\ModelSF.pdb
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\bin\Debug\FluentValidation.xml
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\bin\Debug\Persistence.pdb
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\bin\Debug\EntityFramework.xml
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\obj\Debug\ServicesSF.dll
+C:\Users\dguerrero\Desktop\Cursos\SF\02 Services\ServicesSF\obj\Debug\ServicesSF.pdb
